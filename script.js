@@ -56,3 +56,7 @@ let pswrd = document.getElementById("pswrd");
 				minLength.classList.remove('valid');
 			}
 		}
+
+// <!--GitHub Profile= https://www.github.com/mrpankajpandey -->
+// <!--LinkedIn Profile = https://www.linkedin.com/in/pankaj-kumar-pandey-187b5a222/-->
+// <!--Code Pen profile =  https://codepen.io/mr_pankajpandey-->
